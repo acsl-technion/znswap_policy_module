@@ -90,4 +90,4 @@ extern void swap_inf(struct swap_i* swap);
 extern void register_policy(int(*pol)(u64, struct swappolicy*));
 ```
 
-[1]: https://github.com/acsl-technion/znswap_policy_module "ZNSwap example policy module and API description"
+[1]: https://github.com/acsl-technion/znswap "ZNSwap kernel"
